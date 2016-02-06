@@ -42,7 +42,6 @@
 // Here are the lines of code that point to those libraries.
 #include <NewSoftSerial.h>
 #include <TinyGPS.h>
-//#include <SoftwareSerial.h>
 
 // Define which pins you will use on the Arduino to communicate with your 
 // GPS. In this case, the GPS module's TX pin will connect to the 
