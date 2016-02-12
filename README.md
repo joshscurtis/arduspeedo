@@ -6,4 +6,4 @@ A simple POC to make a Speedometer using an Arduino, a GPS module, and a 4-digit
 
 The GPS and Display are connected via serial links.
 
-The GPS sends data periodically that is caught within the Arduino and parsed for speed. The speed is then formatted and displayed on the Display.
+The GPS sends NMEA data periodically that is caught within the Arduino and parsed for speed. The speed is then formatted and displayed on the Display.
